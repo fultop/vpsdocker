@@ -23,8 +23,6 @@ WireHole
 
 👤 **Devin Stokes**
 
-* Twitter: [@DevinStokes](https://twitter.com/DevinStokes)
-* Github: [@IAmStoxe](https://github.com/IAmStoxe)
 
 ## 🤝 Contributing
 
@@ -34,7 +32,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐ if this project helped you!
 
-<a href="https://www.buymeacoffee.com/stoxe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
  
 ---
 
@@ -42,7 +39,7 @@ Give a ⭐ if this project helped you!
 To get started all you need to do is clone the repository and spin up the containers.
 
 ```bash
-git clone https://github.com/10h30/wirehole-ui.git
+git clone https://github.com/fultop/wirehole.git
 cd wirehole-ui
 nano docker-compose.yml
 ```
